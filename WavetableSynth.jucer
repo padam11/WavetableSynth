@@ -4,6 +4,14 @@
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn">
   <MAINGROUP id="LZ33F8" name="WavetableSynth">
     <GROUP id="{83BD7E41-5D06-49D3-F5AC-79AA5961C28F}" name="Source">
+      <FILE id="xSEWT9" name="WavetableOscillator.cpp" compile="1" resource="0"
+            file="Source/WavetableOscillator.cpp"/>
+      <FILE id="ToPWYj" name="WavetableOscillator.h" compile="0" resource="0"
+            file="Source/WavetableOscillator.h"/>
+      <FILE id="FILVkf" name="WavetableSynth.cpp" compile="1" resource="0"
+            file="Source/WavetableSynth.cpp"/>
+      <FILE id="rYU23o" name="WavetableSynth.h" compile="0" resource="0"
+            file="Source/WavetableSynth.h"/>
       <FILE id="nJyOuE" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="QRnmXw" name="PluginProcessor.h" compile="0" resource="0"
