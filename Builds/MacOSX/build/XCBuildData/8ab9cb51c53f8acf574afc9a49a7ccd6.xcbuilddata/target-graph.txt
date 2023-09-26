@@ -1,0 +1,13 @@
+Target dependency graph (5 targets)
+Target 'WavetableSynth - All' in project 'WavetableSynth'
+➜ Explicit dependency on target 'WavetableSynth - VST3' in project 'WavetableSynth'
+➜ Explicit dependency on target 'WavetableSynth - AU' in project 'WavetableSynth'
+➜ Explicit dependency on target 'WavetableSynth - Standalone Plugin' in project 'WavetableSynth'
+➜ Explicit dependency on target 'WavetableSynth - Shared Code' in project 'WavetableSynth'
+Target 'WavetableSynth - Standalone Plugin' in project 'WavetableSynth'
+➜ Explicit dependency on target 'WavetableSynth - Shared Code' in project 'WavetableSynth'
+Target 'WavetableSynth - AU' in project 'WavetableSynth'
+➜ Explicit dependency on target 'WavetableSynth - Shared Code' in project 'WavetableSynth'
+Target 'WavetableSynth - VST3' in project 'WavetableSynth'
+➜ Explicit dependency on target 'WavetableSynth - Shared Code' in project 'WavetableSynth'
+Target 'WavetableSynth - Shared Code' in project 'WavetableSynth' (no dependencies)

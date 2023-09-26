@@ -29,4 +29,4 @@ private:
     int samplesPerBlock;
     std::vector<WavetableOscillator> oscillators; //notes are assigned
     
-}
+};
